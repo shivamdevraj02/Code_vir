@@ -120,4 +120,4 @@ The main goal of this project is to build a strong foundation in **backend devel
 
 **Shivam Devraj**
 
-Built as a learning project to practice and improve **Node.js backend development and MVC architecture**.
+
