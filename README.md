@@ -79,7 +79,7 @@ Install dependencies:
 npm install
 ```
 
-## ▶️ Run the Project
+## ▶️ Run the Project:--
 
 Start the development server:
 
