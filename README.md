@@ -112,7 +112,7 @@ This project focuses on understanding:
 * Separating application logic into modules
 * Organizing a scalable backend project
 
-## 🎯 Learning Objective
+## 🎯 Learning Objective:--
 
 The main goal of this project is to build a strong foundation in **backend development with Node.js and Express.js** and understand how real-world backend applications can be structured using the MVC design pattern.
 
