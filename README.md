@@ -99,7 +99,7 @@ Open your browser and visit:
 http://localhost:3000
 ```
 
-## 🧠 Concepts Practiced
+## 🧠 Concepts Practiced:--
 
 This project focuses on understanding:
 
