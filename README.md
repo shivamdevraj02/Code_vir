@@ -101,7 +101,8 @@ http://localhost:3000
 
 ## 🧠 Concepts Practiced:--
 
-This project focuses on understanding:
+This project focuses on understanding::-
+
 
 * How a Node.js server works
 * Express.js routing
