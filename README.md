@@ -59,7 +59,7 @@ project/
 └── README.md
 ```
 
-## ⚙️ Installation
+## ⚙️ Installation:-
 
 Clone the repository:
 
