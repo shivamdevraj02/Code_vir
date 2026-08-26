@@ -26,7 +26,7 @@ The project is designed to strengthen backend development skills while following
 * **HTML & CSS**
 * **NPM**
 
-## 📂 Project Structure
+## 📂 Project Structure:-
 
 ```text
 project/
