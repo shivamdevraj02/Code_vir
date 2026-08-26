@@ -17,7 +17,7 @@ The project is designed to strengthen backend development skills while following
 * Modular and maintainable backend code
 * Basic server-side development concepts
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:-
 
 * **Node.js**
 * **Express.js**
