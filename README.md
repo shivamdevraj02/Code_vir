@@ -4,7 +4,7 @@ A **Node.js backend project** built using the **MVC (Model-View-Controller) arch
 
 The project is designed to strengthen backend development skills while following a clean, modular, and maintainable code structure.
 
-## 🚀 Features:-
+## 🚀 Features
 
 * MVC architecture
 * Express.js server setup
